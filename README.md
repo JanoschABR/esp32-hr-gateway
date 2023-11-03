@@ -12,7 +12,7 @@ If none of the settings/code is changed, the gateway will then be available at `
 If no sensor is currently connected the websocket will still be available, but will send ```-1``` instead of the BPM.
 
 # Compatibility
-Currently only tested with a [CooSpo ‎H808S](www.amazon.de/H808S-Bluetooth-Accurate-Waterproof-Compatible/dp/B07PNNMSGS) but any BLE Heartrate sensor that uses the official
+Currently only tested with a [CooSpo ‎H808S](https://www.amazon.de/H808S-Bluetooth-Accurate-Waterproof-Compatible/dp/B07PNNMSGS) but any BLE Heartrate sensor that uses the official
 Bluetooth 'Heart Rate' service (0x180D) and supports the 'Heart Rate Measurement' characteristic (0x2A37) should work.
 
 ## Note
